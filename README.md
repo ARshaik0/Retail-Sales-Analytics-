@@ -21,7 +21,7 @@ The dashboard provides a comprehensive view for stakeholders to identify high-pe
 ## 🔹 Dataset
 The dataset used is the popular **Superstore dataset**, which contains sales transactions, product categories, customer segments, and regional-level data.
 
-👉 [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+👉 [Superstore Dataset](https://github.com/ARshaik0/Retail-Sales-Analytics-/blob/main/sample_-_superstore.xls)
 
 ---
 
@@ -57,10 +57,7 @@ It equips decision-makers to plan promotions, optimize product mix, and improve 
 ---
 
 ## 🔹 Dashboard Preview
-*(Add your dashboard screenshots here)*  
-Example:  
 
-![Dashboard Screenshot](./images/dashboard1.png)
-![Dashboard Screenshot](./images/dashboard2.png)
+<img width="1605" height="746" alt="image" src="https://github.com/user-attachments/assets/502e4b7b-964e-41cd-a5be-56a9aed6d591" />
 
 ---
