@@ -61,3 +61,8 @@ It equips decision-makers to plan promotions, optimize product mix, and improve 
 <img width="1605" height="746" alt="image" src="https://github.com/user-attachments/assets/502e4b7b-964e-41cd-a5be-56a9aed6d591" />
 
 ---
+## 👨‍💻 Author
+*Abdul Rahman*  
+Data Analyst | Power BI Developer  
+📧 [arshaik75@gmail.com](mailto:arshaik75@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/-abdul-rahman)
